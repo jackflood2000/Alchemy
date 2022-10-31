@@ -1,0 +1,5 @@
+1201    John    45000    Technical manager
+1202    Peter    45000    Proof reader
+1203    Harry    40000    Technical writer
+1204    Paul    40000    Hr Admin
+1205    Max    30000    Op Admin
